@@ -1,0 +1,15 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+.maindiv{
+    height: 200px;
+}
+.navdiv{
+    background-color: #9BEC00;
+}
+.bodydiv{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+}
