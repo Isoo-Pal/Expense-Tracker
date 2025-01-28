@@ -7,9 +7,32 @@ html{
 }
 .navdiv{
     background-color: #9BEC00;
+    box-shadow: 5px;
 }
 .bodydiv{
-    height: 500px;
+    height: 800px;
     width: 100%;
-    background-color: black;
+    background-color: rgb(19, 88, 94);
 }
+
+ul li a{
+    font-size: 10px;
+}
+/* .footerdiv{
+    /* margin-top: 600px; 
+    height: 300px;
+    width: 100%;
+    background-color: rgb(117, 19, 19);
+} */
+
+/*body*/
+/* .leftdiv{
+    height: 200px;
+    width: 40%;
+    border: 1px solid red;
+}
+.rightdiv{
+    height: 200px;
+    width: 60%;
+    border: 1px solid greenyellow;
+} */

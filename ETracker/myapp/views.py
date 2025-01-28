@@ -5,3 +5,18 @@ from django.http import HttpResponse
 
 def home(request):
     return render(request, 'myapp/index.html')
+
+def Budgeting(request):
+    return render(request, "myapp/budgeting.html")
+
+def ToolsAndCalculators(request):
+    return render(request, "myapp/tools-and-calculators.html")
+
+def TipsAndGuides(request):
+    return render(request, "myapp/tips-and-guides.html")
+
+def Resources(request):
+    return render(request, "myapp/resources.html")
+
+def ContactUs(request):
+    return render(request, "myapp/Contact-Us.html")
